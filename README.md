@@ -1,2 +1,1 @@
-# BFSI_CREDIT_SCORE_DHAVAL
-BFSI Credit Score Case Study
+# bfsi_credit_score_case_study
